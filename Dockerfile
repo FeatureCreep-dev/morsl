@@ -1,4 +1,4 @@
-FROM python:3.12-slim
+FROM python:3.14-slim
 
 LABEL org.opencontainers.image.source="https://github.com/FeatureCreep-dev/morsl" \
       org.opencontainers.image.description="A menu generator for Tandoor Recipes" \
